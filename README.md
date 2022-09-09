@@ -1,2 +1,2 @@
 # eCommerce
-Basic eCommerce website creation
+Basic eCommerce application
